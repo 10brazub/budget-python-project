@@ -65,6 +65,10 @@ def budget_details(budget_name):
     
     return max_amount, current_amount
 
+def view_budget():
+    
+
+
 
 if __name__ == "__main__":
 
