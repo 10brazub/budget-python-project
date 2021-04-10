@@ -137,3 +137,4 @@ if __name__ == "__main__":
 
             except ValueError as err:
                 print(err)
+    print("Thank you for using MyBudget, See you next time!")
